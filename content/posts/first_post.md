@@ -5,7 +5,7 @@ draft: false
 comments: true
 
 tags: ["machine learning", "torch"]
-categories: ["life"]
+categories: ["Life"]
 ---
 
 ```python
