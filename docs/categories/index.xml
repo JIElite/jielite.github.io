@@ -1,7 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - category - Eli&#39;s Notes</title>
-        <link>http://example.org/categories/</link>
-        <description>Categories - category - Eli&#39;s Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+        <title>Categories - Category - Eli&#39;s Notes</title>
+        <link>https://jielite.github.io/categories/</link>
+        <description>Categories - Category - Eli&#39;s Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</lastBuildDate><atom:link href="https://jielite.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>life</title>
+    <link>https://jielite.github.io/categories/life/</link>
+    <pubDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://jielite.github.io/categories/life/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>

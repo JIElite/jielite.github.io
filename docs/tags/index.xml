@@ -1,7 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - tag - Eli&#39;s Notes</title>
-        <link>http://example.org/tags/</link>
-        <description>Tags - tag - Eli&#39;s Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+        <title>Tags - Tag - Eli&#39;s Notes</title>
+        <link>https://jielite.github.io/tags/</link>
+        <description>Tags - Tag - Eli&#39;s Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</lastBuildDate><atom:link href="https://jielite.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>machine learning</title>
+    <link>https://jielite.github.io/tags/machine-learning/</link>
+    <pubDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://jielite.github.io/tags/machine-learning/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>torch</title>
+    <link>https://jielite.github.io/tags/torch/</link>
+    <pubDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://jielite.github.io/tags/torch/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
