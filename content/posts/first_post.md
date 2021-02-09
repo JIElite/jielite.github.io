@@ -3,6 +3,9 @@ title: "First_post"
 date: 2021-02-10T03:10:40+08:00
 draft: false
 comments: true
+
+tags: ["machine learning", "torch"]
+categories: ["life"]
 ---
 
 ```python
