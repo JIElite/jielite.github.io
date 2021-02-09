@@ -9,7 +9,7 @@
     <title>First_post</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Wed, 10 Feb 2021 03:10:40 &#43;0800</pubDate>
-    <author>Author</author>
+    <author></author>
     <guid>http://example.org/posts/first_post/</guid>
     <description><![CDATA[1 2 3  import numpy as np x = np.random.randn(*shape)   Test for Math $$ 1 + 1 = 2 \sum_{i=1}{1} $$]]></description>
 </item></channel>
