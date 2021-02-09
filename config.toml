@@ -169,7 +169,7 @@ publishDir = "docs"
     pre = ""
     post = ""
     name = "Abouts"
-    url = "/abouts/"
+    url = "/about/"
     title = ""
     weight = 4
 
